@@ -6,8 +6,18 @@
 
 #color1{
     background-color: crimson;
+    border-color:  crimson;
+    
 }
-
+#color2{
+    background-color: rgb(72, 109, 255);
+    
+}
+img{
+    width: max-content;
+    padding: 0%;
+    border-radius: 50%;
+}
 /* esto es una animacion de una tramsicion de espacios
  p{
     display: block;
