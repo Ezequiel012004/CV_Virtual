@@ -1,0 +1,71 @@
+*/ {
+    margin: none;
+    padding: none;
+    list-style: none;
+}
+
+#color1{
+    background-color: crimson;
+}
+
+/* esto es una animacion de una tramsicion de espacios
+ p{
+    display: block;
+    min-width: 50px;
+    width: 100%;
+    height: 400px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    flex: 1;
+    transition: flex .5s;
+
+}
+.bloque1{
+    width: 80%;
+    display: flex;
+    margin: 0 auto;
+    overflow: hidden;
+}
+p:hover{
+    flex: 4;
+} */
+/* .bloque1{
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(150px, 1fr));
+    gap: 32px;
+} */
+
+/* .bloque1{
+    width: 100%;
+    height: auto;
+
+    display: grid;
+    grid-template-columns: 1fr 50% 1fr;
+
+    row-gap: 1px;
+    column-gap: 1px;
+    gap: 1px;
+} */
+
+/* me permite trabajar con las memidas de la grilla y espacios entre las mismas */
+/* header{
+    display: grid;
+    width: 100%;
+    height: auto;
+    grid-template-columns: 70% 1fr;
+    background-color: blue;
+    column-gap: 9px;
+} */
+
+/* header > p{
+    color: white;
+} */
+
+@media(min-width:420px){
+    
+}
+@media(min-width:720px){
+    
+}
+@media(min-width:1400px){
+    
+}
